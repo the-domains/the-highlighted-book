@@ -6,9 +6,9 @@ color:
   saturation: 0.26030794251710176
   rhythmicContrast: 0.2191712420899421
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#962D3E'
+    - '#343642'
+    - '#979C9C'
+    - '#F2EBC7'
+    - '#348899'
 name: The Highlighted Book
