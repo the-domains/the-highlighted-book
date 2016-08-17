@@ -1,3 +1,5 @@
+name: The Highlighted Book
+layout_spectrum: 0.8388174392748624
 typography_spectrum: 0.7795173288322985
 color:
   brandColors:
@@ -10,6 +12,4 @@ color:
   lightness: 0.057753265369683504
   saturation: 0.26030794251710176
   rhythmicContrast: 0.2191712420899421
-layout_spectrum: 0.8388174392748624
-name: The Highlighted Book
 title: The Highlighted Book
