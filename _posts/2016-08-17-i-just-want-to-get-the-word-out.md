@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-18T23:22:12.641Z'
+datePublished: '2016-08-18T23:23:42.713Z'
 sourcePath: _posts/2016-08-17-i-just-want-to-get-the-word-out.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-18T23:22:12.387Z'
+dateModified: '2016-08-18T23:23:41.906Z'
 title: MAP
 publisher: {}
 description: I just want to get the word out!
