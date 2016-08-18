@@ -1,19 +1,21 @@
 ---
-datePublished: '2016-08-18T23:20:45.381Z'
+datePublished: '2016-08-18T23:22:49.812Z'
 sourcePath: _posts/2016-08-12-why-do-we-say-life-is-short.md
 inFeed: true
 author: []
 at__type: Article
 via: {}
-dateModified: '2016-08-18T23:20:44.774Z'
+dateModified: '2016-08-18T23:22:49.340Z'
 title: Why do we say life is short!
 publisher:
   name: Me
   url: ''
 at__context: 'http://schema.org'
 description: Life is not short… we just make it.
+hasPage: true
 starred: false
-_type: Blurb
+url: why-do-we-say-life-is-short/index.html
+_type: Article
 
 ---
 # Why do we say life is short!
