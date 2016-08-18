@@ -12,4 +12,8 @@ color:
   rhythmicContrast: 0.2191712420899421
 layout_spectrum: 0.8388174392748624
 name: The Highlighted Book
+navigation:
+  - name: Why do we say life is short!
+    id: 56567dd3-bd70-4495-8093-8c57bb8f9041
+    type: content
 title: The Highlighted Book
