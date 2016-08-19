@@ -1,16 +1,16 @@
-typography_spectrum: 0.6120321659836918
+typography_spectrum: 0.9020008225925267
 color:
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  brandStrength: 0.9052759639453143
-  lightness: 0.24844591785222292
-  saturation: 0.687229446368292
-  rhythmicContrast: 0.7412665216252208
-layout_spectrum: 0.01401838636957109
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  brandStrength: 0.03719299053773284
+  lightness: 0.705765588209033
+  saturation: 0.9490417100023478
+  rhythmicContrast: 0.3068306874483824
+layout_spectrum: 0.38911801390349865
 name: The Highlighted Book
 navigation:
   - name: Why do we say life is short!
