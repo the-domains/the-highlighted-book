@@ -1,4 +1,9 @@
+name: The Highlighted Book
+layout_spectrum: 0.38911801390349865
 typography_spectrum: 0.9020008225925267
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#000000'
@@ -10,12 +15,14 @@ color:
   lightness: 0.705765588209033
   saturation: 0.9490417100023478
   rhythmicContrast: 0.3068306874483824
-layout_spectrum: 0.38911801390349865
-name: The Highlighted Book
+title: The Highlighted Book
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: true
 navigation:
   - name: Why do we say life is short!
     id: 56567dd3-bd70-4495-8093-8c57bb8f9041
     type: content
-title: The Highlighted Book
-coverPrefs:
-  filter: false
