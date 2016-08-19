@@ -1,20 +1,20 @@
 name: The Highlighted Book
-layout_spectrum: 0.38911801390349865
-typography_spectrum: 0.9020008225925267
+layout_spectrum: 0.8845537018496543
+typography_spectrum: 0.7437389807309955
 opengraph:
   type: ''
   appId: ''
 color:
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  brandStrength: 0.03719299053773284
-  lightness: 0.705765588209033
-  saturation: 0.9490417100023478
-  rhythmicContrast: 0.3068306874483824
+    - '#E1E6FA'
+    - '#C4D7ED'
+    - '#ABC8E2'
+    - '#375D81'
+    - '#183152'
+  brandStrength: 0.6706874642986804
+  lightness: 0.6518162414431572
+  saturation: 0.31326544005423784
+  rhythmicContrast: 0.31013030163012445
 title: >-
   This is The Highlighted Book. We have read some great books, but sometimes
   there is just those highlighted parts that make think,
@@ -30,3 +30,5 @@ navigation:
   - name: Why do we say life is short!
     id: 56567dd3-bd70-4495-8093-8c57bb8f9041
     type: content
+coverPrefs:
+  filter: false
