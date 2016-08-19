@@ -1,6 +1,6 @@
 name: The Highlighted Book
-layout_spectrum: 0.8845537018496543
-typography_spectrum: 0.7437389807309955
+layout_spectrum: 0.2506112791597843
+typography_spectrum: 0.6758215273730457
 opengraph:
   type: ''
   appId: ''
@@ -11,10 +11,10 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
-  brandStrength: 0.6706874642986804
-  lightness: 0.6518162414431572
-  saturation: 0.31326544005423784
-  rhythmicContrast: 0.31013030163012445
+  brandStrength: 0.9551096979994327
+  lightness: 0.7947454217355698
+  saturation: 0.4027710296213627
+  rhythmicContrast: 0.17971003171987832
 title: >-
   This is The Highlighted Book. We have read some great books, but sometimes
   there is just those highlighted parts that make think,
