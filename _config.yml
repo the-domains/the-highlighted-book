@@ -16,10 +16,8 @@ color:
   saturation: 0.4027710296213627
   rhythmicContrast: 0.17971003171987832
 title: >-
-  This is The Highlighted Book. We have read some great books, but sometimes
-  there is just those highlighted parts that make think,
-
-  Wow
+  words together in a single highlight to help you wherever you are in whatever
+  situation
 author:
   name: ''
   url: ''
@@ -30,5 +28,3 @@ navigation:
   - name: Why do we say life is short!
     id: 56567dd3-bd70-4495-8093-8c57bb8f9041
     type: content
-coverPrefs:
-  filter: false
